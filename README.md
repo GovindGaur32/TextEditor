@@ -15,11 +15,8 @@ Make sure you have the following installed:
    ```sh
    git clone <repository-url>
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd Text-Editor/project
-   ```
-3. Install dependencies:
+
+2. Install dependencies:
    ```sh
    npm install
    ```
